@@ -2,7 +2,8 @@
 ![Github gif](https://avatars0.githubusercontent.com/u/6667880?s=400&v=4)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RotemHalbreich&show_icons=true&theme=radical)
 ----------------------------------------------------------------------------------------------------------
-### 📫 *Contact me here:*
+#### 🌱 *I’m currently a Computer Science student at Ariel University*
+#### 📫 *Contact me here:*
 | *LinkedIn page: https://www.linkedin.com/in/rotemhalbreich/* | *E-mail address: Rotem.Halbreich@gmail.com* |
 ------------------------------------------------------|----------------------------------------------------
 <!--

@@ -1,4 +1,5 @@
 ## *Welcome to my GitHub page! 👋*
+![AI](https://media-exp1.licdn.com/dms/image/C4D16AQFHGs29846Jsg/profile-displaybackgroundimage-shrink_350_1400/0/1602204016314?e=1615420800&v=beta&t=X_vnwpwhvNOBeS21aJy4QR6CIRUGPdBfjWqGy1r8qnk)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RotemHalbreich&show_icons=true&theme=radical)![Github gif](https://avatars0.githubusercontent.com/u/6667880?s=400&v=4)
 ----------------------------------------------------------------------------------------------------------
 #### 🌱 *I’m currently a Computer Science student at Ariel University*

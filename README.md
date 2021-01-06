@@ -1,7 +1,10 @@
 ## *Welcome to my GitHub page! 👋*
 ![Github gif](https://avatars0.githubusercontent.com/u/6667880?s=400&v=4)
 
-### *📫 LinkedIn page: https://www.linkedin.com/in/rotemhalbreich/*
+----------------------------------------------------------------------------------------------------------
+### 📫 *Contact me here:*
+| *LinkedIn page: https://www.linkedin.com/in/rotemhalbreich/* | *E-mail address: Rotem.Halbreich@gmail.com* |
+------------------------------------------------------|----------------------------------------------------
 <!--
 **RotemHalbreich/RotemHalbreich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

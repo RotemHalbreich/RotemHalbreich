@@ -1,6 +1,5 @@
 ## *Welcome to my GitHub page! 👋*
 ![Github gif](https://avatars0.githubusercontent.com/u/6667880?s=400&v=4)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RotemHalbreich)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RotemHalbreich&show_icons=true&theme=radical)
 ----------------------------------------------------------------------------------------------------------
 ### 📫 *Contact me here:*

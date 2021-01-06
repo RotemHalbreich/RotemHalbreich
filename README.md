@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Github gif](![alt text](http://url/to/img.png))
 <!--
 **RotemHalbreich/RotemHalbreich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

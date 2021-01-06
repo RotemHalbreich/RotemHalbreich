@@ -1,5 +1,5 @@
 ### Welcome to my GitHub page! 👋
-![Github gif](https://w7.pngwing.com/pngs/865/676/png-transparent-github-fork-domain-name-system-github-mammal-branch-vertebrate-thumbnail.png)
+![Github gif](https://avatars0.githubusercontent.com/u/6667880?s=400&v=4)
 <!--
 **RotemHalbreich/RotemHalbreich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

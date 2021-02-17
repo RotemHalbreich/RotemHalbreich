@@ -3,7 +3,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RotemHalbreich&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RotemHalbreich&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Github gif](https://avatars0.githubusercontent.com/u/6667880?s=400&v=4)
 ----------------------------------------------------------------------------------------------------------
-#### 🌱 *I’m currently a Computer Science student at Ariel University*
+#### 🌱 *I’m currently a Computer Science & Mathematics student*
 #### 📫 *Contact me here:*
 | *LinkedIn page: https://www.linkedin.com/in/rotemhalbreich/* | *E-mail address: Rotem.Halbreich@gmail.com* |
 ------------------------------------------------------|----------------------------------------------------

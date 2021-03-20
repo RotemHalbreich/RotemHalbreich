@@ -34,7 +34,7 @@
 -----------------------------------------------------------------------------------------------------------
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-rotemhalbreich.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/4o2dooq7RerOr29AZhoNtI?si=glgMzxTlTTqSZh3TrPOBTw)
+[![Spotify](https://spotify-rotemhalbreich.vercel.app/api/spotify)](https://open.spotify.com/user/spotify-rotemhalbreich)
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RotemHalbreich&show_icons=true&theme=radical&layout=compact&line_height=20" />

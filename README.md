@@ -9,7 +9,7 @@
 ----------------------------------------------------------------------------------------------------------
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RotemHalbreich&hide=prs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RotemHalbreich&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RotemHalbreich&layout=compact&theme=radical&langs_count=8)]![Commit](https://user-images.githubusercontent.com/66558110/111867488-00118e80-897d-11eb-9ea5-10767d7afee2.png)
 ![Github gif](https://avatars0.githubusercontent.com/u/6667880?s=400&v=4)
 
 <!--

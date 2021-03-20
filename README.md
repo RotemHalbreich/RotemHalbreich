@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/RotemHalbreich?label=Stars&style=social)](https://github.com/RotemHalbreich)
 
 #### 👨‍🎓 *My name is Rotem Halbreich and I'm currently a Computer Science & Mathematics student (2nd year)*
-#### 💼 *Actively seeking for a Computers Science student role (2-3 days a week)*
+#### 💼 *Actively seeking for a Computer Science student role (2-3 days a week)*
 #### 📫 *Contact me here:* 
 | *LinkedIn page: https://www.linkedin.com/in/rotemhalbreich/* | *E-mail address: Rotem.Halbreich@gmail.com* |
 ------------------------------------------------------|----------------------------------------------------

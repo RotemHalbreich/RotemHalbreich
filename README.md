@@ -33,6 +33,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="RotemHalbreich Spotify Playing" width="350" />](https://open.spotify.com/playlist/4o2dooq7RerOr29AZhoNtI?si=H_v4IeM2TxKKIuy8GyhxMg)
 
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RotemHalbreich&show_icons=true&theme=radical&layout=compact&line_height=20" />
 </a>
@@ -40,8 +41,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RotemHalbreich&theme=radical&layout=compact" />
 </a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RotemHalbreich&hide=prs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RotemHalbreich&layout=compact&theme=radical&langs_count=8)]
 ![Commit](https://user-images.githubusercontent.com/66558110/111867488-00118e80-897d-11eb-9ea5-10767d7afee2.png)
 ![Github gif](https://avatars0.githubusercontent.com/u/6667880?s=400&v=4)
 

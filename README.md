@@ -11,7 +11,7 @@
  <a href="mailto:rotem.halbreich@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.RotemHalbreich) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=RotemHalbreich.RotemHalbreich) [![Github](https://img.shields.io/github/followers/RotemHalbreich?label=Follow&style=social)](https://github.com/RotemHalbreich)
 ----------------------------------------------------------------------------------------------------------
 
 ## 🧰 Languages and Tools:

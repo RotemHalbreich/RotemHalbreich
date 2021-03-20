@@ -31,7 +31,7 @@
 <a href="https://www.virtualbox.org/" title="VirtualBox"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/>  </a>
 <br />
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 
 [![Spotify](https://spotify-rotemhalbreich.vercel.app/api/spotify)](https://open.spotify.com/user/spotify-rotemhalbreich)
 

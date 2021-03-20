@@ -1,6 +1,6 @@
 ## *Welcome to my GitHub page! 👋*
 ![](https://visitor-badge.laobi.icu/badge?page_id=RotemHalbreich.RotemHalbreich) [![Github](https://img.shields.io/github/followers/RotemHalbreich?label=Follow&style=social)](https://github.com/RotemHalbreich)
-#### 🌱 *I’m currently a Computer Science & Mathematics student*
+#### 👨‍🎓 *I’m currently a Computer Science & Mathematics student*
 #### 📫 *Contact me here:* 
 | *LinkedIn page: https://www.linkedin.com/in/rotemhalbreich/* | *E-mail address: Rotem.Halbreich@gmail.com* |
 ------------------------------------------------------|----------------------------------------------------
@@ -31,7 +31,7 @@
 -----------------------------------------------------------------------------------------------------------
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="RotemHalbreich Spotify Playing" width="350" />](https://open.spotify.com/playlist/4o2dooq7RerOr29AZhoNtI?si=H_v4IeM2TxKKIuy8GyhxMg)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="RotemHalbreich Spotify Playing" width="350" />](https://open.spotify.com/playlist/4o2dooq7RerOr29AZhoNtI?si=Tt17jpDFTL24q4PHpYbe7w)
 
 
 <a href="https://github.com/anuraghazra/convoychat">

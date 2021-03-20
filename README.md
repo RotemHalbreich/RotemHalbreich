@@ -1,6 +1,7 @@
 ## *Welcome to my GitHub page! 👋*
 ![](https://visitor-badge.laobi.icu/badge?page_id=RotemHalbreich.RotemHalbreich) [![Github](https://img.shields.io/github/followers/RotemHalbreich?label=Follow&style=social)](https://github.com/RotemHalbreich)
-#### 👨‍🎓 *I’m currently a Computer Science & Mathematics student*
+#### 👨‍🎓 *My name is Rotem Halbreich and I'm currently a Computer Science & Mathematics student (2nd year)*
+#### 💼 *Actively seeking for a Computers Science student role (2-3 days a week)*
 #### 📫 *Contact me here:* 
 | *LinkedIn page: https://www.linkedin.com/in/rotemhalbreich/* | *E-mail address: Rotem.Halbreich@gmail.com* |
 ------------------------------------------------------|----------------------------------------------------

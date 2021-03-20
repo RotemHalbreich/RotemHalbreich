@@ -12,7 +12,7 @@
  <a href="mailto:rotem.halbreich@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-## 💻🧰 Languages and Tools:
+## 💻🧰 Languages & Tools:
 <br />
 <a href="https://www.java.com" title="Java"> <img src="https://github.com/Jewgah/MyIcons/blob/master/java.svg" alt="java" width="40" height="40"/>  </a>  
 <a href="https://www.python.org" title="Python"> <img src="https://github.com/Jewgah/MyIcons/blob/master/python.svg" alt="python" width="40" height="40"/>  </a>  
@@ -43,7 +43,7 @@
 </a>
 
 ![Commit](https://user-images.githubusercontent.com/66558110/111867488-00118e80-897d-11eb-9ea5-10767d7afee2.png)
-![Github gif](https://avatars0.githubusercontent.com/u/6667880?s=400&v=4)
+![Github photo](https://avatars0.githubusercontent.com/u/6667880?s=400&v=4)
 
 <!--
 **RotemHalbreich/RotemHalbreich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

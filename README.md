@@ -10,7 +10,7 @@
 ------------------------------------------------------|----------------------------------------------------
 
 <p align="left">
- <a href="https://github.com/RotemHalbreich" target="_blank" rel="noopener noreferrer"> <img src="https://banner2.cleanpng.com/20180430/oaw/kisspng-github-repository-computer-icons-logo-5ae6cbd1273ce8.8327328915250748971607.jpg" alt="GitHub" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://github.com/RotemHalbreich" target="_blank" rel="noopener noreferrer"> <img src="https://logoeps.com/wp-content/uploads/2014/04/25657-github-sign-icon-vector-icon-vector-eps.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/rotemhalbreich/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:rotem.halbreich@gmail.com"> <img src="https://lh3.googleusercontent.com/VS3B_qhOFTYsdyNfnlr98zg3HNjB_Gcs9bxVnaQO9MysAoBOXMHATClhRviImKKJV8RV-0s7hl8KeVQcij5Iagb1exHzt40x679l8Q=w0" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>

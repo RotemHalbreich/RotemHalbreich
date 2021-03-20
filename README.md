@@ -5,13 +5,13 @@
 | *LinkedIn page: https://www.linkedin.com/in/rotemhalbreich/* | *E-mail address: Rotem.Halbreich@gmail.com* |
 ------------------------------------------------------|----------------------------------------------------
 
-<p align="center">
+<p align="left">
  <a href="https://github.com/RotemHalbreich" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/rotemhalbreich/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:rotem.halbreich@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-## 🧰 Languages and Tools:
+## 💻🧰 Languages and Tools:
 <br />
 <a href="https://www.java.com" title="Java"> <img src="https://github.com/Jewgah/MyIcons/blob/master/java.svg" alt="java" width="40" height="40"/>  </a>  
 <a href="https://www.python.org" title="Python"> <img src="https://github.com/Jewgah/MyIcons/blob/master/python.svg" alt="python" width="40" height="40"/>  </a>  
@@ -31,11 +31,18 @@
 -----------------------------------------------------------------------------------------------------------
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="RotemHalbreich Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="RotemHalbreich Spotify Playing" width="350" />](https://open.spotify.com/playlist/4o2dooq7RerOr29AZhoNtI?si=H_v4IeM2TxKKIuy8GyhxMg)
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RotemHalbreich&show_icons=true&theme=radical&layout=compact&line_height=20" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RotemHalbreich&theme=radical&layout=compact" />
+</a>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RotemHalbreich&hide=prs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RotemHalbreich&layout=compact&theme=radical&langs_count=8)]![Commit](https://user-images.githubusercontent.com/66558110/111867488-00118e80-897d-11eb-9ea5-10767d7afee2.png)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RotemHalbreich&layout=compact&theme=radical&langs_count=8)]
+![Commit](https://user-images.githubusercontent.com/66558110/111867488-00118e80-897d-11eb-9ea5-10767d7afee2.png)
 ![Github gif](https://avatars0.githubusercontent.com/u/6667880?s=400&v=4)
 
 <!--

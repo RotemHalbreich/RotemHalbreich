@@ -19,8 +19,8 @@
 <br />
 <a href="https://www.java.com" title="Java"> <img src="https://github.com/Jewgah/MyIcons/blob/master/java.svg" alt="java" width="40" height="40"/>  </a>  
 <a href="https://www.python.org" title="Python"> <img src="https://github.com/Jewgah/MyIcons/blob/master/python.svg" alt="python" width="40" height="40"/>  </a>  
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="https://github.com/Jewgah/MyIcons/blob/master/c.svg" alt="C" width="40" height="40"/>  </a>
-<a href="https://www.cplusplus.com" title="c++"> <img src="https://github.com/get-icon/geticon/blob/master/logos/c-plusplus.svg" alt="c++" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.asm-smt.com/en/" title="Assembly"> <img src="https://github.com/Jewgah/MyIcons/blob/master/assembly.png" alt="ASM" width="45" height="45"/></a>
 <a href="https://git-scm.com/" title="Git"> <img src="https://github.com/Jewgah/MyIcons/blob/master/git.svg" alt="Git" width="40" height="40"/>  </a>
 <a href="https://git-scm.com/" title="GitHub"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" alt="GitHub" width="40" height="40"/>  </a>

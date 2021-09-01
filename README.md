@@ -1,4 +1,6 @@
-![WELCOME!](header.svg)
+![WELCOME!](header.svg) <a href="https://github.com/nschloe/optimesh">
+  <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/>
+</a>
 
 # *Welcome to my GitHub page! 👋*
 ![](https://visitor-badge.laobi.icu/badge?page_id=RotemHalbreich.RotemHalbreich) 

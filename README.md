@@ -1,4 +1,4 @@
-![ROTEM](header.svg)
+![WELCOME](header.svg)
 # *Welcome to my GitHub page! 👋*
 ![](https://visitor-badge.laobi.icu/badge?page_id=RotemHalbreich.RotemHalbreich) 
 [![Github](https://img.shields.io/github/followers/RotemHalbreich?label=Followers&style=social)](https://github.com/RotemHalbreich) 

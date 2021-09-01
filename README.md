@@ -7,8 +7,8 @@
 [![Github](https://img.shields.io/github/followers/RotemHalbreich?label=Followers&style=social)](https://github.com/RotemHalbreich) 
 [![GitHub stars](https://img.shields.io/github/stars/RotemHalbreich?label=Stars&style=social)](https://github.com/RotemHalbreich)
 
-#### 👨‍🎓 *My name is Rotem Halbreich and I'm currently a Computer Science & Mathematics student (2nd year)*
-#### 💼 *Actively seeking for a Computer Science student role (2-3 days a week)*
+#### 👨‍🎓 *My name is Rotem Halbreich and I'm currently a Computer Science & Mathematics student (3rd year)*
+#### 💼 *Actively seeking for a student role in the field*
 #### 📫 *Contact me here:* 
 | *LinkedIn page: https://www.linkedin.com/in/rotemhalbreich/* | *E-mail address: Rotem.Halbreich@gmail.com* |
 ------------------------------------------------------|----------------------------------------------------

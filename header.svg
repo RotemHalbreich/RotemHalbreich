@@ -50,7 +50,7 @@
     </defs>
 
     <symbol id="s-text">
-        <text text-anchor="middle" x="50%" y="80%">WELCOME!</text>
+        <text text-anchor="middle" x="50%" y="80%"> WELCOME! </text>
     </symbol>
 
     <g class = "g-ants">

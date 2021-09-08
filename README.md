@@ -35,7 +35,7 @@
 <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"> <img src="https://github.com/Jewgah/MyIcons/blob/master/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
 <a href="https://www.wireshark.org/" title="WireShark"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Wireshark.png" alt="WireShark" width="45" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Linux" title="Linux"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Linux.png" alt="Linux" width="40" height="40"/></a>
-<a href="https://www.virtualbox.org/" title="VirtualBox"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/>  </a>
+<a href="https://www.virtualbox.org/" title="Oracle VM VirtualBox"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/>  </a>
 <br />
 
 ## Spotify Playing 🎧

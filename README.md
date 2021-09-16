@@ -1,7 +1,7 @@
 ![WELCOME!](header.svg) <a href="https://github.com/nschloe/optimesh">
 ![My Banner](https://user-images.githubusercontent.com/66558110/133551005-5d72924f-edfd-49ab-a1cd-9c5e5f04aafc.png)
 
-
+<img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/></a>
 ## *Hey there, I'm Rotem Halbreich and this is my GitHub page!* <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=RotemHalbreich.RotemHalbreich) 

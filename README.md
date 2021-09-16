@@ -9,7 +9,8 @@
 
 #### 👨‍🎓 *My name is Rotem Halbreich and I'm currently a Computer Science & Mathematics student (3rd year)*
 #### 💼 *Actively seeking for a student role in the field*
-## 📫 *Contact me here:* <p align="left">
+
+### 📫 *Contact me here:* <p align="left">
 <a href="https://www.linkedin.com/in/rotemhalbreich/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://github.com/RotemHalbreich" target="_blank" rel="noopener noreferrer"> <img src="https://logoeps.com/wp-content/uploads/2014/04/25657-github-sign-icon-vector-icon-vector-eps.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="mailto:rotem.halbreich@gmail.com"> <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
@@ -17,7 +18,7 @@
 
 | *LinkedIn Page: https://www.linkedin.com/in/rotemhalbreich/* | *E-mail Address: Rotem.Halbreich@gmail.com* |
 ------------------------------------------------------|------------------------------------------------------- 
-
+--------------------------------------------------------------------------------------------------------------
 ## 💻🧰 Programming languages & Tools:
 <br />
 <a href="https://www.java.com" title="Java"> <img src="https://github.com/Jewgah/MyIcons/blob/master/java.svg" alt="java" width="40" height="40"/>  </a>  

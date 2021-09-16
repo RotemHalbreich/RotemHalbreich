@@ -12,7 +12,7 @@
 
 ### 📫 *Contact me here:* <p align="left">
 <a href="https://www.linkedin.com/in/rotemhalbreich/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://github.com/RotemHalbreich" target="_blank" rel="noopener noreferrer"> <img src="https://logoeps.com/wp-content/uploads/2014/04/25657-github-sign-icon-vector-icon-vector-eps.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px"> </a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/https://github.com/RotemHalbreich) 
  <a href="mailto:rotem.halbreich@gmail.com"> <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 

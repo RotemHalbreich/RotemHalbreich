@@ -1,5 +1,3 @@
-
-![My Banner](https://user-images.githubusercontent.com/66558110/133551005-5d72924f-edfd-49ab-a1cd-9c5e5f04aafc.png)
 ![WELCOME!](header.svg) <a href="https://github.com/nschloe/optimesh">
 
 <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/></a>

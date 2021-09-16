@@ -14,6 +14,7 @@
  <a href="https://github.com/RotemHalbreich" target="_blank" rel="noopener noreferrer"> <img src="https://logoeps.com/wp-content/uploads/2014/04/25657-github-sign-icon-vector-icon-vector-eps.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="mailto:rotem.halbreich@gmail.com"> <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
+
 | *LinkedIn page: https://www.linkedin.com/in/rotemhalbreich/* | *E-mail address: Rotem.Halbreich@gmail.com* |
 ------------------------------------------------------|---------------------------------------------------- 
 

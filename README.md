@@ -1,6 +1,6 @@
 ![WELCOME!](header.svg) <a href="https://github.com/nschloe/optimesh">
 
-![Banner](https://user-images.githubusercontent.com/66558110/133552123-325093f7-734d-433e-aefb-4d51968a1eda.png)
+[My Banner.pdf](https://github.com/RotemHalbreich/RotemHalbreich/files/7175082/My.Banner.pdf)
  
 ## *Hey there, I'm Rotem Halbreich and this is my GitHub page!* <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/></a>
 

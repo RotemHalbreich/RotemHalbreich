@@ -2,7 +2,8 @@
  
 ![GitHub Banner](https://user-images.githubusercontent.com/66558110/133556237-cbbd9c43-aee6-425a-a902-043263daae82.jpeg)
  
-## *Hey there, I'm Rotem Halbreich and this is my GitHub page!* <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/></a>
+## *Hey there, I'm Rotem Halbreich and this is my GitHub page!* 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/></a>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=RotemHalbreich.RotemHalbreich) 
 [![Github](https://img.shields.io/github/followers/RotemHalbreich?label=Followers&style=social)](https://github.com/RotemHalbreich) 

@@ -4,7 +4,7 @@
  
 ## *Hey there, I'm Rotem Halbreich and this is my GitHub page!* 
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/></a> ![](https://visitor-badge.laobi.icu/badge?page_id=RotemHalbreich.RotemHalbreich) 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![](https://visitor-badge.laobi.icu/badge?page_id=RotemHalbreich.RotemHalbreich) 
 [![Github](https://img.shields.io/github/followers/RotemHalbreich?label=Followers&style=social)](https://github.com/RotemHalbreich) 
 [![GitHub stars](https://img.shields.io/github/stars/RotemHalbreich?label=Stars&style=social)](https://github.com/RotemHalbreich)
 

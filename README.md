@@ -38,12 +38,7 @@
 <a href="https://www.virtualbox.org/" title="Oracle VM VirtualBox"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/>  </a>
 <br />
 
-![in case](https://user-images.githubusercontent.com/66558110/111876374-16344480-89a7-11eb-85e7-d72fd27d3598.png)
-![Github photo](https://avatars0.githubusercontent.com/u/6667880?s=400&v=4)
-
-## Spotify Playing 🎧
-[![Spotify](https://spotify-rotemhalbreich.vercel.app/api/spotify)](https://open.spotify.com/user/spotify-rotemhalbreich)
-
+## GitHub Stats 📊
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RotemHalbreich&show_icons=true&theme=radical&layout=compact&line_height=20" />
 </a>
@@ -51,6 +46,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RotemHalbreich&theme=radical&layout=compact" />
 </a>
 
+## Spotify Playing 🎧
+[![Spotify](https://spotify-rotemhalbreich.vercel.app/api/spotify)](https://open.spotify.com/user/spotify-rotemhalbreich)
+
+![in case](https://user-images.githubusercontent.com/66558110/111876374-16344480-89a7-11eb-85e7-d72fd27d3598.png)
+![Github photo](https://avatars0.githubusercontent.com/u/6667880?s=400&v=4)
 
 <!--
 **RotemHalbreich/RotemHalbreich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

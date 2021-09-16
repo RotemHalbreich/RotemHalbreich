@@ -15,7 +15,7 @@
  <a href="mailto:rotem.halbreich@gmail.com"> <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-| *LinkedIn page: https://www.linkedin.com/in/rotemhalbreich/* | *E-mail address: Rotem.Halbreich@gmail.com* |
+| *LinkedIn: https://www.linkedin.com/in/rotemhalbreich/* | *E-mail: Rotem.Halbreich@gmail.com* |
 ------------------------------------------------------|---------------------------------------------------- 
 
 ## 💻🧰 Programming languages & Tools:

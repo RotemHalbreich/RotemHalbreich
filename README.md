@@ -21,7 +21,7 @@
 | *E-mail Address: Rotem.Halbreich@gmail.com* | *LinkedIn Page: https://www.linkedin.com/in/rotemhalbreich/* |
 ------------------------------------------------------|------------------------------------------------------- 
 
-## 💻🧰 Programming languages & Tools:
+## 💻🧰 Programming Languages & Tools:
 <br />
 <a href="https://www.java.com" title="Java"> <img src="https://github.com/Jewgah/MyIcons/blob/master/java.svg" alt="java" width="40" height="40"/>  </a>  
 <a href="https://www.python.org" title="Python"> <img src="https://github.com/Jewgah/MyIcons/blob/master/python.svg" alt="python" width="40" height="40"/>  </a>  

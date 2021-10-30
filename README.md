@@ -23,8 +23,8 @@
 
 ## 💻 *Programming Languages:*
 
-<a href="https://www.java.com" title="Java"> <img src="https://github.com/Jewgah/MyIcons/blob/master/java.svg" alt="java" width="40" height="40"/>  </a>
-<a href="https://www.python.org" title="Python"> <img src="https://github.com/Jewgah/MyIcons/blob/master/python.svg" alt="python" width="40" height="40"/>  </a>
+<a href="https://www.java.com" title="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/>  </a>
+<a href="https://www.python.org" title="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/>  </a>
 <a href="https://www.cprogramming.com/" title="C"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" title="C++"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/he/docs/Web/JavaScript" title="JavaScript"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="javascript" width="40" height="40"/></a>
@@ -51,6 +51,7 @@
 <a href="https://redis.io/" title="Redis"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/redis.svg" alt="redis" width="40" height="40"/></a>
 <a href="https://www.docker.com/" title="Docker"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://nodejs.org/en/" title="Node.js"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs.svg" alt="Node.js" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" title="Firebase"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/></a>
 
 <br />
 

@@ -51,6 +51,7 @@
 <a href="https://redis.io/" title="Redis"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/redis.svg" alt="redis" width="40" height="40"/></a>
 <a href="https://www.docker.com/" title="Docker"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://nodejs.org/en/" title="Node.js"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs.svg" alt="Node.js" width="40" height="40"/></a>
+<a href="https://reactjs.org/" title="React.js"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React.js" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" title="Firebase"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/></a>
 <br />
 

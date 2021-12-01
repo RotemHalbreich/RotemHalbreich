@@ -10,7 +10,7 @@
 <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/></a>
 
 #### 👨‍🎓 *My name is Rotem Halbreich and I'm currently a Computer Science & Mathematics student (3rd year)*
-#### 💼 *Actively seeking for a student role in the field*
+#### 💼 *Actively seeking for a student role as Front-End/Fullstack Developer*
 
 ### 📫 *Contact me here:* <p align="left">
 <a href="https://www.linkedin.com/in/rotemhalbreich/" target="LinkedIn" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>

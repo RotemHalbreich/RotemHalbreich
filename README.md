@@ -57,10 +57,10 @@
 
 ## 📊 *GitHub Stats:*
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RotemHalbreich&show_icons=true&theme=radical&layout=compact&line_height=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RotemHalbreich&show_icons=true&theme=chartreuse-dark&layout=compact&line_height=20" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RotemHalbreich&theme=radical&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RotemHalbreich&theme=chartreuse-dark&layout=compact" />
 </a>
 
 ## 🎧 *Spotify Playing:*

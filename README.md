@@ -36,7 +36,6 @@
 <br />
 <a href="https://git-scm.com/" title="Git"> <img src="https://github.com/Jewgah/MyIcons/blob/master/git.svg" alt="Git" width="40" height="40"/>  </a>
 <a href="https://git-scm.com/" title="GitHub"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" alt="GitHub" width="40" height="40"/>  </a>
-<a href="https://www.sublimetext.com/" title="SublimeText"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Sublime_text.png" alt="SublimeText" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="40" height="40"/>  </a>
 <a href="https://www.jetbrains.com/clion/" title="CLion"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/clion.svg" alt="CLion" width="40" height="40"/>  </a>
 <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>

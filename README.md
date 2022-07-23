@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![](https://visitor-badge.laobi.icu/badge?page_id=RotemHalbreich.RotemHalbreich) 
 [![Github](https://img.shields.io/github/followers/RotemHalbreich?label=Followers&style=social)](https://github.com/RotemHalbreich) 
 [![GitHub stars](https://img.shields.io/github/stars/RotemHalbreich?label=Stars&style=social)](https://github.com/RotemHalbreich)
-<img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/></a>
+<!-- <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/></a> -->
 
 #### 👨‍🎓 *My name is Rotem Halbreich and I'm currently a Computer Science & Mathematics student (3rd year)*
 #### 💼 *Actively seeking for a student role as Front-End/Full-Stack Developer*

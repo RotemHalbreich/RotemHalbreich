@@ -45,7 +45,6 @@
 <a href="https://www.virtualbox.org/" title="Oracle VM VirtualBox"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/>  </a>
 <a href="https://www.mongodb.com/" title="MongoDB"> <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="mongodb" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" title="MySQL"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.elastic.co/" title="Elastic Search"> <img src="https://cdn.iconscout.com/icon/free/png-256/elasticsearch-226094.png" alt="elasticsearch" width="40" height="40"/></a>
 <a href="https://neo4j.com/" title="Neo4j"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/neo4j.svg" alt="neo4j" width="40" height="40"/></a>
 <a href="https://redis.io/" title="Redis"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/redis.svg" alt="redis" width="40" height="40"/></a>
 <a href="https://www.docker.com/" title="Docker"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="40" height="40"/></a>

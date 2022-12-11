@@ -8,6 +8,7 @@
 [![Github](https://img.shields.io/github/followers/RotemHalbreich?label=Followers&style=social)](https://github.com/RotemHalbreich) 
 [![GitHub stars](https://img.shields.io/github/stars/RotemHalbreich?label=Stars&style=social)](https://github.com/RotemHalbreich)
 <!-- <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/></a> -->
+![giphy](https://user-images.githubusercontent.com/66558110/206922501-08e47ef2-f718-42f5-9859-e63831bbb794.gif)
 
 #### 👨‍🎓 *My name is Rotem Halbreich and I'm currently a Computer Science & Mathematics student (3rd year)*
 #### 💼 *Actively seeking for a student role as Front-End/Full-Stack Developer*
@@ -17,9 +18,6 @@
  <a href="https://github.com/RotemHalbreich" target="GitHub" rel="noopener noreferrer"> <img src="https://logoeps.com/wp-content/uploads/2014/04/25657-github-sign-icon-vector-icon-vector-eps.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="mailto:rotem.halbreich@gmail.com" target="Gmail"> <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
-| *E-mail Address: Rotem.Halbreich@gmail.com* | *LinkedIn Page: https://www.linkedin.com/in/rotemhalbreich/* |
-------------------------------------------------------|------------------------------------------------------- 
 
 ## 💻 *Programming Languages:*
 

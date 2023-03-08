@@ -10,8 +10,8 @@
 <!-- <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/></a> -->
 ![giphy](https://user-images.githubusercontent.com/66558110/206922501-08e47ef2-f718-42f5-9859-e63831bbb794.gif)
 
-#### 👨‍🎓 *My name is Rotem Halbreich and I'm currently a Computer Science & Mathematics student (3rd year)*
-#### 💼 *Actively seeking for a student role as Front-End/Full-Stack Developer*
+#### 👨‍🎓 *My name is Rotem Halbreich and I'm a Computer Science & Mathematics graduate*
+#### 💼 *Actively seeking for a full-time position as Front-End/Full-Stack Developer*
 
 ## 📫 *Contact me here:* <p align="left">
 <a href="https://www.linkedin.com/in/rotemhalbreich/" target="LinkedIn" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>

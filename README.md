@@ -30,7 +30,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="40" height="40"/></a>
 <a href="https://www.asm-smt.com/en/" title="Assembly"> <img src="https://github.com/Jewgah/MyIcons/blob/master/assembly.png" alt="ASM" width="45" height="45"/></a>
 
-## 🧰 *Tools:*
+## 🧰 *Tools & Frameworks:*
 <br />
 <a href="https://git-scm.com/" title="Git"> <img src="https://github.com/Jewgah/MyIcons/blob/master/git.svg" alt="Git" width="40" height="40"/>  </a>
 <a href="https://git-scm.com/" title="GitHub"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" alt="GitHub" width="40" height="40"/>  </a>
